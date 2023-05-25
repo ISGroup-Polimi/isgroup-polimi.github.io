@@ -10,7 +10,7 @@ Please visit us again soon!
 
 
 
-Riferimento alla sezione [Prova](#Prova)
+Riferimento alla sezione [Prova](#prova)
 
 # Prova
 Contenuto
