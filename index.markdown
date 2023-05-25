@@ -14,11 +14,13 @@ layout: home
  - Security
  - Cloud applications
  - Business Process Managemnt
+ - Green IT
 
  **Application Domain**
- - Green IT
+
  - Social media analysis
  - Judicial systems
+ - Health 
  
  [People](https://www.deib.polimi.it/ita/linee-di-ricerca/lista-personale/85)
  
