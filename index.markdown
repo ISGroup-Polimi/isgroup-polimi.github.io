@@ -11,13 +11,14 @@ layout: home
  
  - Data quality
  - Adaptive information Systems
- - Security
+ - Security and Privacy
  - Cloud applications
  - Business Process Managemnt
  - Green IT
 
  **Application Domain**
 
+ - Industry 4.0
  - Social media analysis
  - Judicial systems
  - Health 
