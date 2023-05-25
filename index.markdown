@@ -5,7 +5,20 @@
 layout: home
 ---
  Site is currently under construction. We will be online pretty soon!
+ xxxx focus on adaptive systems
  
+ **Research Themes**
+ 
+ - Data quality
+ - Adaptive information Systems
+ - Security
+ - Cloud applications
+ - Business Process Managemnt
+
+ **Application Domain**
+ - Green IT
+ - Social media analysis
+ - Judicial systems
  
  [People](https://www.deib.polimi.it/ita/linee-di-ricerca/lista-personale/85)
  
