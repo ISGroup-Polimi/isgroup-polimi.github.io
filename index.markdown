@@ -24,6 +24,8 @@ layout: home
  
  [Projects](https://www.deib.polimi.it/ita/linee-di-ricerca/progetti/85)
  
+ Courses
+ 
  
 
  In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information
