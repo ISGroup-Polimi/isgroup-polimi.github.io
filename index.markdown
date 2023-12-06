@@ -4,7 +4,7 @@
 
 layout: home
 ---
- Site is currently under construction. We will be online pretty soon!
+ **Site is currently under construction. ** We will be online pretty soon!
  xxxx focus on adaptive systems
 
 # The IS group activities in a nutshell 
