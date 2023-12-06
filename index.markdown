@@ -23,7 +23,7 @@ An overview of the areas, disciplines, and domains considered is shown in the fo
  - Cloud applications
  - Business Process Managemnt
  - Green IT
- - Spatial information systems
+ - [spatial] (Spational Information Systems)
 
 # Application Domain
 
