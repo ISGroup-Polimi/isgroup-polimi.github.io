@@ -5,9 +5,10 @@
 layout: home
 ---
 
-** Site is currently under construction. ** 
+**Site is currently under construction.
 We will be online pretty soon!
- xxxx focus on adaptive systems
+ 
+In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information
 
 # The IS group activities in a nutshell 
 
@@ -40,6 +41,6 @@ An overview of the areas, disciplines, and domains considered is shown in the fo
  
  
 
- In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information
+
 
  
