@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo h1 {
-  font-size: 36px;
+  font-size: 63px;
   margin: -4px 0 0 0;
   padding: 0;
   line-height: 1;
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo h1 a, #header #logo h1 a:hover {
-  color: #fff;
+  color: #d39e00;
 }
 
 #header #logo img {
@@ -112,7 +112,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-fixed {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  /*background: linear-gradient(45deg, #1de099, #1dc8cd);*/
+  background: #F3F3F3;
+
   padding: 20px 0;
   height: 72px;
   transition: all 0.5s;
@@ -124,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
 #intro {
   width: 100%;
   height: 100vh;
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  /*background: linear-gradient(45deg, #1de099, #1dc8cd);*/
   position: relative;
 }
 
@@ -158,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 400;
   line-height: 56px;
-  color: #fff;
+  color: #fd7e14;
 }
 
 @media (max-width: 768px) {
@@ -169,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #intro p {
-  color: #fff;
+  color: #c82333;
   margin-bottom: 20px;
   padding: 0 15px;
   font-size: 24px;
@@ -357,7 +359,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 8px 10px 8px;
   text-decoration: none;
   display: inline-block;
-  color: #fff;
+  color: #32383e;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 14px;
@@ -530,8 +532,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 60px;
   height: 3px;
-  background: #1dc8cd;
-  background: linear-gradient(0deg, #1dc8cd 0%, #55fabe 100%);
+  background: #e83e8c;
+  /*background: linear-gradient(0deg, #1dc8cd 0%, #55fabe 100%);*/
   margin: 0 auto;
   margin-bottom: 20px;
 }
@@ -593,7 +595,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .content i {
   font-size: 20px;
   padding-right: 4px;
-  color: #1dc8cd;
+  color: #eff5f5;
 }
 
 #about .content ul {
