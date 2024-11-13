@@ -34,9 +34,9 @@ The RAISE group researches in the area of Information Systems at the Politecnico
 
 ### Camilla Sancricca (Ph.D. Candidate)
 <img src="/static/camilla.jpeg" width="100" height="100" alt="Description">
+
 [Email](camilla.sancricca@polimi.it)
 [Google Scholar](https://www.deib.polimi.it)
 [Linkedin](https://www.deib.polimi.it)
 [dblp](https://www.deib.polimi.it)
-
  
