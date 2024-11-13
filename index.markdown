@@ -15,17 +15,23 @@ In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85
 
 # Research on Advanced Information Systems Engineering (RAISE)
 
-The RAISE group researches in the area of Information Systems at the Politecnico di Milano on aspects related to the development of adaptive information systems, handling the various problems related to data management and processing, IS architectures, such as the impact of design choices in systems based on cloud / fog computing, data quality, data-centric AI, energy efficiency, big data and social media in different application contexts. In the area of design and management of adaptive information systems, the goal is the definition of information systems capable of dynamically evolving in order to meet specific requirements and maintain the system operations. 
+The research of the RAISE group of Politecnico di Milano is focused on the development of adaptive information systems, handling the most critical issues along the entire data lifecycle and the design and development of novel IS architectures. The research mainly addresses quality-aware design of IS architectures to create adaptive information systems, with the goal of dynamically evolve in order to meet specific requirements and maintain the system operations.
  
 # Research Topics
 
-- **Data Quality Assessment and Improvement** (contact: Cinzia Cappiello, Giacomo Palù, Barbara Pernici, Camilla Sancricca)
-- **Data-centric AI** (contact: Cinzia Cappiello, Giacomo Palù, Monica Vitali, Camilla Sancricca, Barbara Pernici)
-- **Cloud/Edge Federated Data Sharing Architectures** (contact: Pierluigi Plebani, Monica Vitali, Matteo Falconi, Valeria Fortina)
-- **Business Process Monitoring** (contact: Pierluigi Plebani, Barbara Pernici, Musa Salamov)
-- **Green IT** (contact: Monica Vitali, Barbara Pernici)
-- **Information Security and Security Analysis** (contact: Mariagrazia Fugini, Cinzia Cappiello, Barbara Pernici, Pierluigi Plebani, Mattia Salnitri)
-- **Big Data Analysis** (contact: Chiara Francalanci, Barbara Pernici, Carlo Bono, Jingxian Wang)
+**Data Quality Assessment and Improvement** (contact: Cinzia Cappiello, Giacomo Palù, Barbara Pernici, Camilla Sancricca)
+
+**Data-centric AI** (contact: Cinzia Cappiello, Giacomo Palù, Monica Vitali, Camilla Sancricca, Barbara Pernici)
+
+**Cloud/Edge Federated Data Sharing Architectures** (contact: Pierluigi Plebani, Monica Vitali, Matteo Falconi, Valeria Fortina)
+
+**Business Process Monitoring** (contact: Pierluigi Plebani, Barbara Pernici, Musa Salamov)
+
+**Green IT** (contact: Monica Vitali, Barbara Pernici)
+
+**Information Security and Security Analysis** (contact: Mariagrazia Fugini, Cinzia Cappiello, Barbara Pernici, Pierluigi Plebani, Mattia Salnitri)
+
+**Big Data Analysis** (contact: Chiara Francalanci, Barbara Pernici, Carlo Bono, Jingxian Wang)
 
 # Staff
 
