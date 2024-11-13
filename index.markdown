@@ -32,10 +32,14 @@ An overview of the areas, disciplines, and domains considered is shown in the fo
  - Social media analysis
  - Judicial systems
  - Health 
- 
- [People](https://www.deib.polimi.it/ita/linee-di-ricerca/lista-personale/85)
- 
- [Projects](https://www.deib.polimi.it/ita/linee-di-ricerca/progetti/85)
+
+ # Staff
+
+
+ ## Full professor
+
+ ## Associate professor
+
  
  Courses
  
