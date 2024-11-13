@@ -3,12 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 # Should center, but it doesn't {:style="display:block; margin-left:auto; margin-right:auto; width:250px"; }
-# ![Image](/static/logo_raise_cropped_.png)
 
 layout: home
 ---
 
-<img src="/static/logo_raise_cropped_.png" width="150" height="100" alt="logo">
+![Image](/static/logo_raise_cropped_.png)
 
 **The site is currently under construction. We will be online pretty soon!
  
@@ -33,7 +32,11 @@ The RAISE group researches in the area of Information Systems at the Politecnico
 
 ![Image](/static/group_pic.png)
 
+### Camilla Sancricca (Ph.D. Candidate)
 <img src="/static/camilla.jpeg" width="100" height="100" alt="Description">
-
+[Email](camilla.sancricca@polimi.it)
+[Google Scholar](https://www.deib.polimi.it)
+[Linkedin](https://www.deib.polimi.it)
+[dblp](https://www.deib.polimi.it)
 
  
