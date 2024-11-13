@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image](/static/logo_raise_cropped_.png){:style="display:block; margin-left:auto; margin-right:auto"; :width="250"; }
+![Image](/static/logo_raise_cropped_.png){:style="display:block; margin-left:auto; margin-right:auto"; width="250"; }
 
 **Site is currently under construction.
 We will be online pretty soon!
