@@ -2,10 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+# Should center, but it doesn't {:style="display:block; margin-left:auto; margin-right:auto; width:250px"; }
 layout: home
 ---
 
-![Image](/static/logo_raise_cropped_.png){:style="display:block; margin-left:auto; margin-right:auto; width:250px"; }
+![Image](/static/logo_raise_cropped_.png)
 
 **Site is currently under construction.
 We will be online pretty soon!
