@@ -37,7 +37,7 @@ An overview of the areas, disciplines, and domains considered is shown in the fo
 
  # Staff
 
-![Image](/static/IMG_3476.HEIC){:style="display:block; margin-left:auto; margin-right:auto"; width="250"; }
+![Image](/static/group_pic.png){:style="display:block; margin-left:auto; margin-right:auto"; width="250"; }
 
  ## Full professor
 
