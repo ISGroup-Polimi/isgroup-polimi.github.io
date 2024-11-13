@@ -29,9 +29,8 @@ The RAISE group researches in the area of Information Systems at the Politecnico
 
 # Staff
 
-![Image](/static/group_pic.png){:style="display:block; margin-left:auto; margin-right:auto"; width="250"; }
- 
- 
+![Image](/static/group_pic.png)
+
 
 
 
