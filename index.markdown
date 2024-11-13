@@ -10,7 +10,7 @@ layout: home
 
 **The site is currently under construction. We will be online pretty soon!
  
-In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information
+In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information.
 
 # Research on Advanced Information Systems Engineering (RAISE)
 
@@ -19,7 +19,7 @@ The RAISE group researches in the area of Information Systems at the Politecnico
 # Research Topics
 
 - **Quality-aware Design of IS Architectures**
-- **Data Quality**
+- **Data Quality Assessment and Improvement**
 - **Data-centric AI**
 - **Cloud/Edge Federated Data Sharing Architectures**
 - **Business Process Monitoring**
