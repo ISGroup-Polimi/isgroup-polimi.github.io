@@ -3,10 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 # Should center, but it doesn't {:style="display:block; margin-left:auto; margin-right:auto; width:250px"; }
+# ![Image](/static/logo_raise_cropped_.png)
+
 layout: home
 ---
 
-![Image](/static/logo_raise_cropped_.png)
+<img src="/static/logo_raise_cropped_.png" width="150" height="100" alt="logo">
 
 **The site is currently under construction. We will be online pretty soon!
  
