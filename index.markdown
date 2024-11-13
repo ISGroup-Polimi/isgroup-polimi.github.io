@@ -8,44 +8,28 @@ layout: home
 
 ![Image](/static/logo_raise_cropped_.png)
 
-**Site is currently under construction.
-We will be online pretty soon!
+**The site is currently under construction. We will be online pretty soon!
  
 In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information
 
-# The IS group activities in a nutshell 
+# Research on Advanced Information Systems Engineering (RAISE)
 
-Research in Information Systems at Politecnico di Milano concerns several aspects related to planning and conceptual and architectural design of information systems. Research focuses on initial design phases and corresponding high-level design issues, addressing the alignment between requirements and design solutions. The focus is on evaluating the impact of design choices, on using components at conceptual level for information systems design, on technological aspects of IS development. In particular the research of the group focuses on a number of specific research themes: design of adaptive information systems based on services, process modeling, information systems security, energy efficiency, risk and safety management, representation of spatial information and events, information quality, and sentiment analysis.
-
-An overview of the areas, disciplines, and domains considered is shown in the following picture.</p>rnrnrn[caption id="attachment_291" align="aligncenter" width="339"]<img class=" wp-image-291" title="Research themes @ ISGroup" src="http://isgroup.dei.polimi.it/wp-content/uploads/stackricerca-982x1024.png" alt="" width="339" height="353" /> 
+The RAISE group researches in the area of Information Systems at the Politecnico di Milano on aspects related to the development of adaptive information systems, handling the various problems related to data management and processing, IS architectures, such as the impact of design choices in systems based on cloud / fog computing, data quality, data-centric AI, energy efficiency, big data and social media in different application contexts. In the area of design and management of adaptive information systems, the goal is the definition of information systems capable of dynamically evolving in order to meet specific requirements and maintain the system operations. 
  
-# Research Themes
- 
- - Data quality
- - Adaptive information Systems
- - Security and Privacy
- - Cloud applications
- - Business Process Managemnt
- - Green IT
- - Spatial Information Systems
+# Research Topics
 
-# Application Domain
+- **Quality-aware Design of IS Architectures**
+- **Data Quality**
+- **Data-centric AI**
+- **Cloud/Edge Federated Data Sharing Architectures**
+- **Business Process Monitoring**
+- **Green IT**
+- **Information Security and Security Analysis**
+- **Big Data Analysis**
 
- - Industry 4.0
- - Social media analysis
- - Judicial systems
- - Health 
-
- # Staff
+# Staff
 
 ![Image](/static/group_pic.png){:style="display:block; margin-left:auto; margin-right:auto"; width="250"; }
-
- ## Full professor
-
- ## Associate professor
-
- 
- Courses
  
  
 
