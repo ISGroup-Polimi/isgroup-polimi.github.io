@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RAISE Group at Politecnico di Milano
+title: Research on Advanced Information Systems Engineering (RAISE) Group at Politecnico di Milano
 #email: barbara.pernici@polimi
 description: >- # this means to ignore newlines until "baseurl:"
   RAISE group belongs to the Dipartimento di Elettronica e Informazione at Politecnico di Milano
