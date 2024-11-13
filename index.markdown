@@ -19,14 +19,13 @@ The RAISE group researches in the area of Information Systems at the Politecnico
  
 # Research Topics
 
-- **Quality-aware Design of IS Architectures**
-- **Data Quality Assessment and Improvement**
-- **Data-centric AI**
-- **Cloud/Edge Federated Data Sharing Architectures**
-- **Business Process Monitoring**
-- **Green IT**
-- **Information Security and Security Analysis**
-- **Big Data Analysis**
+- **Data Quality Assessment and Improvement** (contact: Cinzia Cappiello, Giacomo Palù, Barbara Pernici, Camilla Sancricca)
+- **Data-centric AI** (contact: Cinzia Cappiello, Giacomo Palù, Monica Vitali, Camilla Sancricca, Barbara Pernici)
+- **Cloud/Edge Federated Data Sharing Architectures** (contact: Pierluigi Plebani, Monica Vitali, Matteo Falconi, Valeria Fortina)
+- **Business Process Monitoring** (contact: Pierluigi Plebani, Barbara Pernici, Musa Salamov)
+- **Green IT** (contact: Monica Vitali, Barbara Pernici)
+- **Information Security and Security Analysis** (contact: Mariagrazia Fugini, Cinzia Cappiello, Barbara Pernici, Pierluigi Plebani, Mattia Salnitri)
+- **Big Data Analysis** (contact: Chiara Francalanci, Barbara Pernici, Carlo Bono, Jingxian Wang)
 
 # Staff
 
