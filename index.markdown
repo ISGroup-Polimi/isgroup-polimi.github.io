@@ -54,10 +54,7 @@ TBD
 ### Camilla Sancricca (Ph.D. Candidate)
 <img src="/static/camilla.jpeg" width="150" height="150" alt="Description">
 
-[![Image](/static/webpage.png)](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-[![Image](/static/scholar.png)](https://www.deib.polimi.it)
-[![Image](/static/linkedin.png)](https://www.deib.polimi.it)
-[![Image](/static/dblp.png)](https://www.deib.polimi.it)
+[<img src="/static/webpage.png" width="50" alt="Description">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 
 [Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the group on the DEIB Department website.
  
