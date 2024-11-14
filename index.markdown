@@ -7,7 +7,7 @@
 layout: home
 ---
 
-![Image](/static/logo_raise_cropped_.png)
+![Image](/static/politecnico.png) ![Image](/static/logo_raise_cropped_.png)
 
 # Research on Advanced Information Systems Engineering (RAISE)
 
