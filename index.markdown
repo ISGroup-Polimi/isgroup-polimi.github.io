@@ -60,5 +60,5 @@ TBD
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 [<img src="/static/dblp.png" width="30" alt="D">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 
-[Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the group on the DEIB Department website.
+[Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the RAISE group on the Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) department website of Politecnico di Milano.
  
