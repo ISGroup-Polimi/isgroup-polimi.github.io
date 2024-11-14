@@ -42,5 +42,5 @@ The research of the RAISE group of Politecnico di Milano is focused on the devel
 [dblp](https://www.deib.polimi.it)
 
 
-[Link](https://www.deib.polimi.it/eng/research-lines/details/85) Information on the group in the DEIB Department web site)
+[Link](https://www.deib.polimi.it/eng/research-lines/details/85) Information on the group in the DEIB Department web site
  
