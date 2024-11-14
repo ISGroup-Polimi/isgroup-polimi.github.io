@@ -52,6 +52,7 @@ TBD
 </p>
 
 **Camilla Sancricca (Ph.D. Candidate)**
+
 <img src="/static/camilla.jpeg" width="150" alt="Description">
 
 [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
