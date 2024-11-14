@@ -51,8 +51,8 @@ TBD
 <img src="/static/group_pic.png" width="600" alt="Description">
 </p>
 
-### Camilla Sancricca (Ph.D. Candidate)
-<img src="/static/camilla.jpeg" width="200" alt="Description">
+**Camilla Sancricca (Ph.D. Candidate)**
+<img src="/static/camilla.jpeg" width="150" alt="Description">
 
 [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 [<img src="/static/scholar.png" width="30" alt="B">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
