@@ -23,7 +23,7 @@ The research of the RAISE group of Politecnico di Milano is focused on the devel
 
 **Data-centric AI** (contact: Cinzia Cappiello, Giacomo Palù, Monica Vitali, Camilla Sancricca, Barbara Pernici)
 
-**Cloud/Edge Federated Data Sharing Architectures** (contact: Pierluigi Plebani, Monica Vitali, Matteo Falconi, Valeria Fortina)
+**Cloud/Edge Federated Data Sharing Architectures** (contact: Pierluigi Plebani, Monica Vitali, Matteo Falconi, Valeria Fortina, Yang Shudan)
 
 **Business Process Monitoring** (contact: Pierluigi Plebani, Barbara Pernici, Musa Salamov)
 
