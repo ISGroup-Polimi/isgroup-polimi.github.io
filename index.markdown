@@ -43,7 +43,15 @@ For the design phase, the design and impact of security policies in IS and data 
 <font size="3"> (contact: Chiara Francalanci, Barbara Pernici, Carlo Bono, Jingxian Wang) </font> 
 
 # Projects
-TBD
+- H2020 project [CS-AWARE-NEXT](https://cordis.europa.eu/project/id/101069543) (2022-2025) (contact for RAISE group: C. Cappiello)
+- H2020 project [TEADAL](https://www.teadal.eu/) Trustworthy, Energy-Aware federated DAta Lakes along the computing continuum  (contact for RAISE group: P. Plebani)
+- HORIZON-HLTH-2023 project [BETTER](https://www.better-health-project.eu/ ) (Better rEal-world healTh-daTa distributEd analytics Research platform) (contact for RAISE group: C. Cappiello)
+- [HealthBigData](https://www.healthbigdata.it/en/)
+- PNRR Project [MICS](https://www.mics.tech/) (Made in Italy Circolare e Sostenibile) (contact for RAISE group: P. Plebani)
+- PNRR Project [FAIR](https://future-ai-research.it/) (Future Artificial Intelligence Research – Spoke 4 Adaptive AI) (2023-25), working on context-based adaptive approaches in machine learning (contact for RAISE group: B. Pernici)
+- PRIN 2022 project [Discount quality for responsible data science: Human-in-the-Loop for quality data](https://www.discountquality.polimi.it/) (2023-2026), working on the impact of improving data quality in data science (contact for RAISE group: B. Pernici)
+- PRIN 2022 project [FREEDA](https://freeda.di.unipi.it) (2023-2026) (contact for RAISE group: M. Vitali)
+- Fondazione CARIPLO  (contact for RAISE group: P. Plebani)
 
 # Staff
 
