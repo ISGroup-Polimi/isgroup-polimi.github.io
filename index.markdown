@@ -9,10 +9,6 @@ layout: home
 
 ![Image](/static/logo_raise_cropped_.png)
 
-**The site is currently under construction. We will be online pretty soon!
- 
-In the meanwhile [here](https://www.deib.polimi.it/eng/research-lines/details/85) some essential information.
-
 # Research on Advanced Information Systems Engineering (RAISE)
 
 The research of the RAISE group of Politecnico di Milano is focused on the development of adaptive information systems, handling the most critical issues along the entire data lifecycle and the design and development of novel IS architectures. The research mainly addresses quality-aware design of IS architectures to create adaptive information systems, with the goal of dynamically evolve in order to meet specific requirements and maintain the system operations.
@@ -44,4 +40,7 @@ The research of the RAISE group of Politecnico di Milano is focused on the devel
 [GoogleScholar](https://www.deib.polimi.it)
 [Linkedin](https://www.deib.polimi.it)
 [dblp](https://www.deib.polimi.it)
+
+
+[Link](https://www.deib.polimi.it/eng/research-lines/details/85) Information on the group in the DEIB Department web site)
  
