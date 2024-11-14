@@ -9,7 +9,9 @@
 layout: home
 ---
 
-<img src="/static/politecnico.png" width="150" alt="Description"> <img src="/static/logo_raise_cropped_.png" width="150" alt="Description">
+<p align="center">
+<img src="/static/politecnico.jpg" width="300" alt="Description"> <img src="/static/logo_raise_cropped_.png" width="300" alt="Description">
+</p>
 
 # Research on Advanced Information Systems Engineering (RAISE)
 
