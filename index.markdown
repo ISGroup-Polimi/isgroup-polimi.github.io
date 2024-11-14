@@ -4,10 +4,12 @@
 
 # Should center, but it doesn't {:style="display:block; margin-left:auto; margin-right:auto; width:250px"; }
 
+# ![Image](/static/politecnico.png) ![Image](/static/logo_raise_cropped_.png)
+
 layout: home
 ---
 
-![Image](/static/politecnico.png) ![Image](/static/logo_raise_cropped_.png)
+<img src="/static/politecnico.png" width="150" alt="Description"> <img src="/static/logo_raise_cropped_.png" width="150" alt="Description">
 
 # Research on Advanced Information Systems Engineering (RAISE)
 
