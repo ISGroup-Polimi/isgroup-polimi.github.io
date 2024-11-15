@@ -6,6 +6,17 @@
 
 # ![Image](/static/politecnico.png) ![Image](/static/logo_raise_cropped_.png)
 
+# ---------- to be added for each people
+# **Camilla Sancricca (Ph.D. Candidate)**
+
+# <img src="/static/camilla.jpeg" width="140" alt="Description">
+
+# [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="/static/scholar.png" width="30" alt="B">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="/static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# [<img src="/static/dblp.png" width="30" alt="D">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
+# ----------
+
 layout: home
 ---
 
@@ -58,15 +69,6 @@ For the design phase, the design and impact of security policies in IS and data 
 <p align="center">
 <img src="/static/group_pic.png" width="600" alt="Description">
 </p>
-
-**Camilla Sancricca (Ph.D. Candidate)**
-
-<img src="/static/camilla.jpeg" width="140" alt="Description">
-
-[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-[<img src="/static/scholar.png" width="30" alt="B">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-[<img src="/static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
-[<img src="/static/dblp.png" width="30" alt="D">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 
 [Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the RAISE group on the Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) department website of Politecnico di Milano.
  
