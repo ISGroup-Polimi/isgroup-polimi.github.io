@@ -26,7 +26,7 @@ layout: home
 
 # Research on Advanced Information Systems Engineering (RAISE)
 
-The research of the RAISE group of Politecnico di Milano is focused on the development of adaptive information systems, handling the most critical issues along the entire data lifecycle and the design and development of novel IS architectures. The research mainly addresses quality-aware design of IS architectures to create adaptive information systems, with the goal of dynamically evolve in order to meet specific requirements and maintain the system operations.
+The research of the RAISE group at the Department of Electronics, Information and Bioengineering of Politecnico di Milano is focused on the development of adaptive information systems, handling the most critical issues along the entire data lifecycle and the design and development of novel IS architectures. The research mainly addresses quality-aware design of IS architectures to create adaptive information systems, with the goal of dynamically evolve in order to meet specific requirements and maintain the system operations.
 Application areas include healthcare, industry 4.0/5.0, cybersecurity, judiciary.
  
 # Research Topics
