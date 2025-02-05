@@ -75,7 +75,6 @@ For the design phase, the design and impact of security policies in IS and data 
 **Camilla Sancricca (Ph.D. Candidate)**
 
 <img src="/static/profile/camilla.jpeg" width="140" alt="Description">
-
 [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 [<img src="/static/scholar.png" width="30" alt="B">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
