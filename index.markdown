@@ -32,10 +32,10 @@ Application areas include healthcare, industry 4.0/5.0, cybersecurity, judiciary
 # Research Topics
 
 **Data Quality Assessment and Improvement** This line of research has defined models and methods for the evaluation / monitoring and improvement of data quality, and has developed methodologies for the analysis and redesign of quality-oriented processes.
-<font size="3"> (contact: Cinzia Cappiello, Giacomo Palù, Barbara Pernici, Camilla Sancricca) </font> 
+<font size="3"> (contact: Cinzia Cappiello, Barbara Pernici, Camilla Sancricca) </font> 
 
 **Data-centric AI** Data-centric AI emphasizes the critical role of high-quality input data in data analytics. Complete, consistent, and error-free data significantly enhance the performance and accuracy of AI models, enabling the generation of valuable insights.
-<font size="3"> (contact: Cinzia Cappiello, Giacomo Palù, Monica Vitali, Camilla Sancricca, Barbara Pernici) </font> 
+<font size="3"> (contact: Cinzia Cappiello, Monica Vitali, Camilla Sancricca, Barbara Pernici) </font> 
 
 **Cloud/Edge Federated Data Sharing Architectures** The research aims to define methods and models for establishing trusted, efficient, and sustainable data sharing among organizations within a federation, covering every stage from planning to actual data transfer. A data mesh approach serves as the reference model, supported by deployable platforms in a hybrid cloud/edge environment that enforces policies based on agreements between participating parties.
 <font size="3"> (contact: Pierluigi Plebani, Monica Vitali, Matteo Falconi, Valeria Fortina, Yang Shudan) </font> 
