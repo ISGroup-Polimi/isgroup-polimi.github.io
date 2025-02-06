@@ -84,6 +84,7 @@ For the design phase, the design and impact of security policies in IS and data 
  **Matteo Falconi (Ph.D. Candidate)**
 
 <img src="/static/profile/MatteoFalconi.jpg" width="140" alt="Description">
+
 [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/1195460)
 [<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=mkmnaaYAAAAJ&hl=en)
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/matteo-falconi/)
