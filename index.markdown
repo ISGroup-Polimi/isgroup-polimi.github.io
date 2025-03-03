@@ -48,7 +48,7 @@ Application areas include healthcare, industry 4.0/5.0, cybersecurity, judiciary
 
 **Information Security and Security Analysis** Security research addresses privacy in service systems and the Cloud, architectural solutions in the integration of information systems, and security of big data and business intelligence systems.
 For the design phase, the design and impact of security policies in IS and data are studied. To support security monitoring, security warnings based on low-level system log analysis and process mining are studied.
-<font size="3"> (contact: Mariagrazia Fugini, Cinzia Cappiello, Barbara Pernici, Pierluigi Plebani, Mattia Salnitri) </font> 
+<font size="3"> (contact: Mariagrazia Fugini, Cinzia Cappiello, Barbara Pernici, Pierluigi Plebani) </font> 
 
 **Big Data Analysis** Research in this field has focused on the design of systems for data segmentation, recommendation systems for personalized content filtering based on user requests and prediction systems able to simulate future behavior and support users in their decisions. This line of research has also developed methodologies and tools for Social Media Intelligence. The challenge of the research concerns the measurement of the impact of emergency events through social media.
 <font size="3"> (contact: Chiara Francalanci, Barbara Pernici, Carlo Bono, Jingxian Wang) </font> 
@@ -71,6 +71,15 @@ For the design phase, the design and impact of security policies in IS and data 
 </p>
 
 [Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the RAISE group on the Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) department website of Politecnico di Milano.
+
+**Barbara Pernici (professor)**
+
+<img src="/static/profile/barbara.jpeg" width="140" alt="Description">
+
+[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/60850)
+[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=r-f9TQEAAAAJ&hl=en&oi=ao)
+[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/barbara-pernici-76687b1/?originalSubdomain=it)
+[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/p/BarbaraPernici.html)
 
 **Camilla Sancricca (Ph.D. Candidate)**
 
