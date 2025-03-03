@@ -60,7 +60,7 @@ For the design phase, the design and impact of security policies in IS and data 
 - [HealthBigData](https://www.healthbigdata.it/en/)
 - PNRR Project [MICS](https://www.mics.tech/) (Made in Italy Circolare e Sostenibile) (contact for RAISE group: P. Plebani)
 - PNRR Project [FAIR](https://future-ai-research.it/) (Future Artificial Intelligence Research – Spoke 4 Adaptive AI) (2023-25), working on context-based adaptive approaches in machine learning (contact for RAISE group: B. Pernici)
-- PRIN 2022 project [Discount quality for responsible data science: Human-in-the-Loop for quality data](https://www.discountquality.polimi.it/) (2023-2026), working on the impact of improving data quality in data science (contact for RAISE group: B. Pernici)
+- PRIN 2022 project [Discount quality for responsible data science: Human-in-the-Loop for quality data](https://www.discountquality.polimi.it/) (2023-2025), working on the impact of improving data quality in data science (contact for RAISE group: B. Pernici)
 - PRIN 2022 project [FREEDA](https://freeda.di.unipi.it) (2023-2026) (contact for RAISE group: M. Vitali)
 - Fondazione CARIPLO  (contact for RAISE group: P. Plebani)
 
