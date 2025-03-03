@@ -74,7 +74,7 @@ For the design phase, the design and impact of security policies in IS and data 
 
 **Barbara Pernici (professor)**
 
-<img src="/static/profile/barbara.jpeg" width="140" alt="Description">
+<img src="/static/profile/barbara.jpg" width="140" alt="Description">
 
 [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/60850)
 [<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=r-f9TQEAAAAJ&hl=en&oi=ao)
