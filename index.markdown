@@ -90,6 +90,13 @@ For the design phase, the design and impact of security policies in IS and data 
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 [<img src="/static/dblp.png" width="30" alt="D">](https://www.deib.polimi.it/ita/personale/dettagli/1122566)
 
+**Jingxian (Cecily) Wang (Ph.D. Candidate)**
+
+<img src="/static/profile/cecily.jpg" width="140" alt="Description">
+
+[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=Nv6FY2IAAAAJ&hl=en)
+[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/cecilyjx-wang/)
+
  **Matteo Falconi (Ph.D. Candidate)**
 
 <img src="/static/profile/MatteoFalconi.jpg" width="140" alt="Description">
