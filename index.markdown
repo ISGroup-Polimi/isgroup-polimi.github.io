@@ -98,8 +98,18 @@ For the design phase, the design and impact of security policies in IS and data 
 [<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=mkmnaaYAAAAJ&hl=en)
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/matteo-falconi/)
 
+**Shudan Yang (Ph.D. Candidate)**
+
+<img src="/static/profile/Shudan.jpg" width="140" alt="Description">
+
+[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/dettagli/2073286)
+[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=9UUWpGgAAAAJ&hl=en&oi=ao))
+[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/shudan-yang-2741a2354)
+
 **Valeria M. Fortina (Ph.D. Candidate)**
 
 [<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/eng/people/details/1134866)
 [<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=zwQVmvsAAAAJ&hl)
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/valeria-fortina-ba9239171/)
+
+
