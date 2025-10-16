@@ -4,7 +4,7 @@
 
 # Should center, but it doesn't {:style="display:block; margin-left:auto; margin-right:auto; width:250px"; }
 
-# ![Image](/static/politecnico.png) ![Image](/static/logo_raise_cropped_.png)
+# ![Image](/static/new_logo.png)
 
 # ---------- to be added for each people
 # **Camilla Sancricca (Ph.D. Candidate)**
