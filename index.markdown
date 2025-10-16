@@ -19,7 +19,7 @@ layout: home
 ---
 
 <p align="left">
-<img src="/static/new_logo.png" width="800" alt="Description">
+<img src="/static/new_logo.png" width="700" alt="Description">
 </p>
 
 # Research on Advanced Information Systems Engineering (RAISE)
