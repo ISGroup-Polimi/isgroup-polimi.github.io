@@ -70,7 +70,7 @@ For the design phase, the design and impact of security policies in IS and data 
 
 [Link](https://www.deib.polimi.it/eng/research-lines/details/85) to information on the RAISE group on the Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) department website of Politecnico di Milano.
 
-**Barbara Pernici (professor)**
+**Barbara Pernici (Professor)**
 
 <img src="/static/profile/barbara.jpg" width="140" alt="Description">
 
@@ -78,6 +78,27 @@ For the design phase, the design and impact of security policies in IS and data 
 [<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=r-f9TQEAAAAJ&hl=en&oi=ao)
 [<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/barbara-pernici-76687b1/?originalSubdomain=it)
 [<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/p/BarbaraPernici.html)
+
+**Cinzia Cappiello (Professor)**
+
+[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/eng/people/details/123890)
+[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=-Ihy2bkAAAAJ&hl=it)
+[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/cinzia-cappiello-bba85b1/?originalSubdomain=it)
+[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/17/5993.html)
+
+**Pierluigi Plebani (Professor)**
+
+[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/details/320738)
+[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=FUdUWB4AAAAJ&hl=it&oi=ao)
+[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/pierluigi-plebani/?originalSubdomain=it)
+[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/86/5594.html)
+
+**Monica Vitali (Professor)**
+
+[<img src="/static/webpage.png" width="30" alt="A">](https://www.deib.polimi.it/ita/personale/details/750428)
+[<img src="/static/scholar.png" width="30" alt="B">](https://scholar.google.com/citations?user=ZKwcR3UAAAAJ&hl=it&oi=ao)
+[<img src="/static/linkedin.png" width="30" alt="C">](https://www.linkedin.com/in/vitalimonica/?originalSubdomain=it)
+[<img src="/static/dblp.png" width="30" alt="D">](https://dblp.org/pid/69/9854.html)
 
 **Camilla Sancricca (Ph.D. Candidate)**
 
